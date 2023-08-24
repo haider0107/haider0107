@@ -1,4 +1,5 @@
 # 💫 About Me:
+![](https://komarev.com/ghpvc/?username=haider0107&color=green)<br>
 Hi 👋, I'm Kushal Bhargava<br>I'm currently learning MERN Stack<br>I write Blogs on <a href="https://medium.com/@kushal.bhargava01" target="_blank">medium.com</a>
 
 
@@ -13,6 +14,6 @@ Hi 👋, I'm Kushal Bhargava<br>I'm currently learning MERN Stack<br>I write Blo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haider0107&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haider0107&icon=1&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
