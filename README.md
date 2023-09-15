@@ -1,6 +1,6 @@
 # 💫 About Me:
 ![](https://komarev.com/ghpvc/?username=haider0107&color=green)<br>
-Hi 👋, I'm Kushal Bhargava<br>I'm currently learning MERN Stack<br>I write Blogs on <a href="https://medium.com/@kushal.bhargava01" target="_blank">medium.com</a>
+Hi 👋, I'm Kushal Bhargava<br>Bachelor of Engineering(CSE) graduate with a passion for innovation and problem-solving<br>I'm a MERN Stack Developer<br>I write Blogs on <a href="https://medium.com/@kushal.bhargava01" target="_blank">medium.com</a>
 
 
 ## 🌐 Socials:
