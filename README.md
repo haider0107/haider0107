@@ -1,6 +1,6 @@
 # 💫 About Me:
 ![](https://komarev.com/ghpvc/?username=haider0107&color=green)<br>
-Hi 👋, I'm Kushal Bhargava<br>Bachelor of Engineering(CSE) graduate with a passion for innovation and problem-solving<br>I'm a Full Stack Developer<br>I write Blogs on <a href="https://medium.com/@kushal.bhargava01" target="_blank">medium.com</a>
+Hi 👋, I'm Kushal Bhargava<br>Bachelor of Engineering(CSE) graduate with a passion for innovation and problem-solving<br>I'm a Full Stack Developer<br>I write Blogs on my website <a href="https://kb-blogs.netlify.app/" target="_blank">kb-blogs.netlify.app</a>
 
 
 ## 🌐 Socials:
