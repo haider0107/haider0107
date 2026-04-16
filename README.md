@@ -3,7 +3,7 @@
 
 Hi 👋, I'm **Kushal Bhargava**
 
-I'm a **Java Full Stack Developer** with 2+ years of experience building secure, high-performance web applications. I enjoy working across the full stack — from designing REST APIs and microservices to crafting fast, clean frontends.
+I'm a **Java Full Stack Developer** with 3+ years of experience building secure, high-performance web applications. I enjoy working across the full stack — from designing REST APIs and microservices to crafting fast, clean frontends.
 
 I write Blogs on my website <a href="https://kb-blogs.in/" target="_blank">kb-blogs.in</a>
 
